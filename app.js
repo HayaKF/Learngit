@@ -1,4 +1,4 @@
-//first JavaScript app
+//First JavaScript App
 
 console.log("Welcome")
 console.log("to")
